@@ -69,7 +69,7 @@ function main() {
         console.log(`Response returned from GET request: ${data}`);
       }
     });
-  }l
+  }
 }
 
 /*
